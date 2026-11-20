@@ -1,43 +1,43 @@
-# حاسبة الإكرامية
+# Tip Calculator
 
-تطبيق ويب بسيط لحساب الإكرامية وإجمالي الفاتورة لكل شخص. أنجزت هذا المشروع كتدريب عملي على بناء واجهات متجاوبة باستخدام HTML وCSS وJavaScript.
+A responsive tip calculator that splits the tip and bill total evenly between a group. This project was built as a hands-on way to practice creating web interfaces with HTML, CSS, and JavaScript.
 
-## روابط المشروع
+## Project links
 
-- [معاينة الموقع مباشرة](https://code-surgeon-hossam.github.io/tip-calculator-app-main/)
-- [المستودع على GitHub](https://github.com/Code-Surgeon-Hossam/tip-calculator-app-main)
+- [Live site](https://code-surgeon-hossam.github.io/tip-calculator-app-main/)
+- [GitHub repository](https://github.com/Code-Surgeon-Hossam/tip-calculator-app-main)
 
-## المميزات
+## Features
 
-- حساب الإكرامية والإجمالي لكل شخص عند إدخال قيمة الفاتورة وعدد الأشخاص.
-- اختيار نسبة إكرامية جاهزة أو إدخال نسبة مخصصة.
-- تنبيه عند إدخال صفر في خانة عدد الأشخاص.
-- زر لإعادة الحاسبة إلى حالتها الأولية.
-- تصميم متجاوب مع الشاشات الكبيرة والهواتف.
+- Calculate the tip and total bill per person.
+- Choose a preset tip percentage or enter a custom percentage.
+- Get feedback when the number of people is zero.
+- Reset the calculator to its initial state.
+- Responsive layout for desktop and mobile screens.
 
-## التقنيات المستخدمة
+## Built with
 
-- HTML دلالي
-- CSS، بما يشمل Grid وFlexbox
-- JavaScript بدون مكتبات خارجية
-- خط Space Mono من Google Fonts
+- Semantic HTML
+- CSS, including Grid and Flexbox
+- Vanilla JavaScript
+- Space Mono font from Google Fonts
 
-## تشغيل المشروع
+## Run locally
 
-لا يحتاج المشروع إلى تثبيت حزم. افتح `index.html` في المتصفح، أو شغّل خادمًا محليًا من مجلد المشروع، مثل:
+No packages are required. Open `index.html` in a browser, or start a local server from the project directory:
 
 ```bash
 npx serve .
 ```
 
-## التحدي
+## Challenge
 
-هذا المشروع مبني على [تحدي حاسبة الإكرامية من Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX).
+Based on the [Tip Calculator App challenge by Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX).
 
-## عنّي
+## About me
 
-**حسام عبدالرؤوف (Hossam Abdulraouf)**
+**Hossam Abdulraouf**
 
-مطور واجهات أمامية أتعلم وأطوّر مهاراتي من خلال بناء مشاريع ويب عملية.
+Front-end developer learning and growing through building practical web projects.
 
 - GitHub: [@Code-Surgeon-Hossam](https://github.com/Code-Surgeon-Hossam)
