@@ -2,6 +2,11 @@
 
 تطبيق ويب بسيط لحساب الإكرامية وإجمالي الفاتورة لكل شخص. أنجزت هذا المشروع كتدريب عملي على بناء واجهات متجاوبة باستخدام HTML وCSS وJavaScript.
 
+## روابط المشروع
+
+- [معاينة الموقع مباشرة](https://code-surgeon-hossam.github.io/tip-calculator-app-main/)
+- [المستودع على GitHub](https://github.com/Code-Surgeon-Hossam/tip-calculator-app-main)
+
 ## المميزات
 
 - حساب الإكرامية والإجمالي لكل شخص عند إدخال قيمة الفاتورة وعدد الأشخاص.
